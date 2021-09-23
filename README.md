@@ -1,0 +1,1 @@
+I am going to make a basic recipe folder to try out my HTML skills. Later I am going to style the folder as a practice for CSS.
